@@ -2,6 +2,8 @@
 
 A 2D radar visualizer, multi-target tracking, and perimeter security application for the **Flipper Zero** interfaced with the **Hi-Link HLK-LD2450** 24GHz mmWave radar sensor.
 
+<p align="center">  <img width="30%" src="screenshots/screenshot_1.png" alt="radar" />  <img width="30%" src="screenshots/screenshot_2.png" alt="targets" />  <img width="30%" src="screenshots/screenshot_3.png" alt="alarm" /></p>
+
 ---
 
 ## Features
