@@ -1,0 +1,14 @@
+App(
+    appid="ld2450_radar",
+    name="[LD2450] Motion tracker",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ld2450_radar_app",
+    stack_size=4 * 1024,
+    fap_category="GPIO",
+    fap_version="1.1",
+    fap_icon="ld2450_radar.png",
+    fap_description="HLK-LD2450 24GHz mmWave radar tracker and 2D visualizer",
+    fap_author="lok1s",
+    fap_weburl="https://github.com/thelok1s/fz-ld2450-radar",
+)
+
