@@ -61,3 +61,7 @@ Using **uFBT** (Micro Flipper Build Tool):
 
 ---
 
+## Credits
+
+https://github.com/TownOfBulls/flipperzero-ld2450-radar
+https://github.com/EnygmaINC/projects/tree/6f31a88afbe5b83d18b5fccfefc297dd2aa7fd25/Flipper%20Zero%20LD2450%20Radar
